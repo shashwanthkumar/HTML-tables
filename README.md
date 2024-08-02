@@ -1,2 +1,3 @@
 # HTML-tables
 basic tables created using html....
+using table tags like table, border-collapse, bgcolor, rowspan, colspan and some tags
